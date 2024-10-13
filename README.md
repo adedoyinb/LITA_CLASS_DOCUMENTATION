@@ -17,8 +17,6 @@
 
 ### [EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
 
-### [DATA ANALYSIS](#data-analysis)
-
 ### [DATA VISUALISATION](#data-visualisation)
 
 ---
