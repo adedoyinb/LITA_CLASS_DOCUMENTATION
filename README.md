@@ -96,7 +96,10 @@ Power BI is a powerful business analytics tool that provides advanced data visua
 - It can be configured to refresh data in real-time, ensuring users always have access to the latest information.
 
 ![image](https://github.com/user-attachments/assets/d58191ce-7970-48fa-b514-71be1108a38a) 
-Image of a Power Bi chart
+
+Image of a Power BI chart.
+
 
 ![image](https://github.com/user-attachments/assets/887fe853-2ed7-4ada-80be-7a6f6f83a115)
+
 Imahe of an Excel chart
